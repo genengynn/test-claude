@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Harborview Family Housing Center",
+    "category": "housing",
+    "languages": ["en", "es"],
+    "eligibility": "Open to families and individuals facing eviction or homelessness in the county.",
+    "contact": {
+      "phone": "(555) 201-3040",
+      "website": "https://harborviewhousing.example.org"
+    }
+  },
+  {
+    "name": "Bridgeway Transitional Shelter",
+    "category": "housing",
+    "languages": ["en"],
+    "eligibility": "Available to single adults and veterans who need temporary emergency shelter.",
+    "contact": {
+      "phone": "(555) 214-7788",
+      "website": "https://bridgewayshelter.example.org"
+    }
+  },
+  {
+    "name": "Casa Segura Rental Assistance",
+    "category": "housing",
+    "languages": ["en", "es"],
+    "eligibility": "Serves low-income renters who are behind on rent and at risk of eviction.",
+    "contact": {
+      "phone": "(555) 228-9012",
+      "website": "https://casasegura.example.org"
+    }
+  },
+  {
+    "name": "Little Sprouts Early Learning Fund",
+    "category": "childcare",
+    "languages": ["en", "es"],
+    "eligibility": "Provides subsidized childcare vouchers for working parents earning below 200% of the federal poverty line.",
+    "contact": {
+      "phone": "(555) 330-1123",
+      "website": "https://littlesprouts.example.org"
+    }
+  },
+  {
+    "name": "Sunrise Community Daycare Network",
+    "category": "childcare",
+    "languages": ["en"],
+    "eligibility": "Open to families with children under age 6 who need full-day or after-school care.",
+    "contact": {
+      "phone": "(555) 341-6654",
+      "website": "https://sunrisedaycare.example.org"
+    }
+  },
+  {
+    "name": "Greenfield Community Food Pantry",
+    "category": "food",
+    "languages": ["en", "es"],
+    "eligibility": "Open to any household in need of groceries, no proof of income required.",
+    "contact": {
+      "phone": "(555) 402-5566",
+      "website": "https://greenfieldpantry.example.org"
+    }
+  },
+  {
+    "name": "Mesa Verde Mobile Meals",
+    "category": "food",
+    "languages": ["en", "es"],
+    "eligibility": "Delivers free meals to homebound seniors and individuals with disabilities.",
+    "contact": {
+      "phone": "(555) 415-8890",
+      "website": "https://mesaverdemeals.example.org"
+    }
+  },
+  {
+    "name": "Riverside Family Nutrition Program",
+    "category": "food",
+    "languages": ["en"],
+    "eligibility": "Serves families with young children who qualify for WIC or SNAP benefits.",
+    "contact": {
+      "phone": "(555) 427-1290",
+      "website": "https://riversidenutrition.example.org"
+    }
+  },
+  {
+    "name": "NextStep Career Training Institute",
+    "category": "employment",
+    "languages": ["en", "es"],
+    "eligibility": "Open to unemployed or underemployed adults seeking job training and placement services.",
+    "contact": {
+      "phone": "(555) 512-3344",
+      "website": "https://nextstepcareers.example.org"
+    }
+  },
+  {
+    "name": "Horizon Workforce Development Center",
+    "category": "employment",
+    "languages": ["en"],
+    "eligibility": "Serves adults age 18 and older looking for resume help, interview coaching, and job leads.",
+    "contact": {
+      "phone": "(555) 524-6677",
+      "website": "https://horizonworkforce.example.org"
+    }
+  },
+  {
+    "name": "Clearwater Community Health Clinic",
+    "category": "healthcare",
+    "languages": ["en", "es"],
+    "eligibility": "Provides low-cost medical care to uninsured and underinsured residents regardless of immigration status.",
+    "contact": {
+      "phone": "(555) 601-9988",
+      "website": "https://clearwaterclinic.example.org"
+    }
+  },
+  {
+    "name": "Willow Creek Behavioral Health Services",
+    "category": "healthcare",
+    "languages": ["en"],
+    "eligibility": "Open to residents seeking free or sliding-scale mental health counseling.",
+    "contact": {
+      "phone": "(555) 613-2211",
+      "website": "https://willowcreekbh.example.org"
+    }
+  },
+  {
+    "name": "Fairview Legal Aid Society",
+    "category": "legal",
+    "languages": ["en", "es"],
+    "eligibility": "Offers free legal representation to low-income residents facing housing, family, or immigration cases.",
+    "contact": {
+      "phone": "(555) 702-4455",
+      "website": "https://fairviewlegalaid.example.org"
+    }
+  },
+  {
+    "name": "Cedar Park Immigrant Justice Clinic",
+    "category": "legal",
+    "languages": ["en", "es"],
+    "eligibility": "Serves immigrants and refugees who need help with visa applications, asylum cases, or citizenship paperwork.",
+    "contact": {
+      "phone": "(555) 714-8823",
+      "website": "https://cedarparkjustice.example.org"
+    }
+  }
+]
